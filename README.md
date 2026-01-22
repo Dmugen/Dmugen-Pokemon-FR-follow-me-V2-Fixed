@@ -1,7 +1,7 @@
 # Pokemon FR Follow me V2-Fixed
 Pokemon Fire Red Follow me.
 
-	![121](https://github.com/user-attachments/assets/ace33a81-f6bd-448f-bc01-bc3fa9578480)
+![121](https://github.com/user-attachments/assets/ace33a81-f6bd-448f-bc01-bc3fa9578480)
 	
 Port del follow me hecho por Ghoulslash en pokeemerald:
         https://github.com/ghoulslash/pokeemerald/tree/follow_me
