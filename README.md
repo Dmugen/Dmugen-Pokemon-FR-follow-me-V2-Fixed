@@ -41,7 +41,7 @@ Adaptación hasta el commit:
 - Para que un NPC te siga, en advance map ponemos un script usando esta plantilla:
 
       setvar 0x8000 0x1 //NPC local id
-      setvar 0x8001 0xBF //flags
+      setvar 0x8001 0x64 //flags
       special 0x10 //Setfollower
 - Si añades más cosas al script, asegúrate de poner un texto al final con `msgbox`
 
@@ -70,12 +70,12 @@ Adaptación hasta el commit:
     #org @start
     faceplayer
     setvar 0x8000 0x(ID DEL NPC EN HEX)
-    setvar 0x8001 0xBF
+    setvar 0x8001 0x64
     special 0x10
     release
     end
 		
--
+- En Advanced Map, le das el valor al NPC en N° de Gente en valor Decimal (ejemplo: Hex-32 | Dec: 50)
 
 ***Advertencia:***
 Este sistema todavía no es funcional con el sistema de escaleras laterales (SIDEWAYS STAIRS)
