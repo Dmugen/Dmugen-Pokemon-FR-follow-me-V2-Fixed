@@ -75,7 +75,7 @@ Adaptación hasta el commit:
     release
     end
 		
-- En Advanced Map, le das el valor al NPC en N° de Gente en valor Decimal (ejemplo: Hex-32 | Dec: 50)
+- En Advanced Map, le das el valor al NPC en "N° de Gente" en valor Decimal (ejemplo: Hex-32 | Dec: 50)
 
 ***Advertencia:***
 Este sistema todavía no es funcional con el sistema de escaleras laterales (SIDEWAYS STAIRS)
